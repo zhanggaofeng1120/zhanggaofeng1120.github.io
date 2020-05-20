@@ -1,8 +1,9 @@
 ﻿---
 title: 大数据可视化
+date: 2018-09-30 17:25:30
+type: "categories"
+layout: "categories"
 ---
-
-
 #第一书记可视化呈现
 
 
